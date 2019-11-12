@@ -26,9 +26,9 @@ from https://example.com.
 ## how to put the HTML page on the internet
 Here are the steps:
 
-* sign up for a Neocities account
-* copy the index.html into the index.html in your neocities site
-* done
+1. sign up for a Neocities account
+1. copy the index.html into the index.html in your neocities site
+1. done
 
 The index.html page above is on the internet at julia-example-website.neocities.com, if you view
 source you’ll see that it’s the same HTML as in the github repo.
